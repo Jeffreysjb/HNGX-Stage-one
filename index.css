@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(124, 216, 216);
+    font-family: sans-serif;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.hero h2 {
+    font-size: 35px;
+}
+.hero img {
+    width: 250px;
+    border-radius: 50%;
+}
+.hero a {
+    font-size: 20px;
+    text-decoration: none;
+    border: 2px solid black;
+    width: 250px;
+    color: black;
+    /* background-color: white; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+}
+.hero a i {
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
